@@ -1,10 +1,5 @@
 # JOURNAL-IA — Mini-TP 3 : Cycle de vie & Intents
 
-## Outil IA utilisé
-Kiro (assistant IA intégré dans le Kiro IDE)
-
-## Tâche confiée à l'IA
-Diagnostiquer le crash suivant :
 
 ```
 java.lang.RuntimeException: Unable to start activity
